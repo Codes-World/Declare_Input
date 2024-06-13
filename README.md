@@ -1,1 +1,3 @@
-# Declare_Input
+## Declare_Input
+This is program to get an input from user
+# Okk
